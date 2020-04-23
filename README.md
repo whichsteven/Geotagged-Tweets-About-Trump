@@ -2,9 +2,9 @@
 
 ![heatmap_trump](/img/heatmap_trump.png)
 
-This is a heatmap intended to visualize the global geographical distribution of the geo-tagged tweets that contain the keyword "Trump." The value of the color is proportional to the number of the tweets at the corresponding location. 
+This is a heatmap intended to visualize the global geographical distribution of the geo-tagged tweets that contain the keyword "Trump." The value of the color is proportional to the number of the tweets at the corresponding location.
 
-From the map, we can see that most of the tweets are located in the United States, while some are in western Europe, some around India, and some in southwest Australia. Within the U.S., the tweets mostly locate in the coastal areas. After looking at the details of the tweets, I found that the high concentration of tweets around the state of Georgia is actually caused by one user sending multiple tweets with the same content, which could possibly be the behavior of a bot.
+From the map, we can see that most of the tweets are located in the United States, while some are in western Europe, some around India, and some in southwest Australia. The major concentration in the U.S. could possibly be explained by the discussion of Donald Trump's speeches by the general public. Within the U.S., the tweets mostly locate in the coastal areas, possibly because these areas have higher population densities and better access to the Internet. After looking at the details of the tweets, I found that the high concentration of tweets around the state of Georgia is actually caused by one user sending multiple tweets with the same content, which could possibly be the behavior of a bot.
 
 This visualization could be used for analyzing where people talk about Trump in their geo-tagged tweets. However, this visualization should be used with extra caution while making conclusions from it, because it has several limitations.
 
